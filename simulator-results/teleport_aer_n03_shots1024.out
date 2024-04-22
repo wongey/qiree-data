@@ -1,0 +1,13 @@
+{
+    "AcceleratorBuffer": {
+        "name": "qreg_0x55fbb3c03a60",
+        "size": 3,
+        "Information": {},
+        "Measurements": {
+            "010": 268,
+            "011": 279,
+            "100": 233,
+            "101": 244
+        }
+    }
+}
